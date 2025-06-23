@@ -157,3 +157,8 @@ In conclusion, for client-server program design, apart from fulfilling the basic
 - Management of multi-threaded tasks and avoidance of conflicts (while adopting an appropriate code structure) under multiple user connections.
 
 I need to avoid repeatedly modifying the code during the project's code writing stage, which would waste lots of time .
+
+
+
+In addition, here are some [Thought](ThoughtsAboutConcurrency.md)  (<u>in Chinese</u>) on concurrent design of the project.
+
